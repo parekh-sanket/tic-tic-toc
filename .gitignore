@@ -4,6 +4,8 @@
 /node_modules
 /.pnp
 .pnp.js
+/public
+/src/P-1( Calculator )
 
 # testing
 /coverage
